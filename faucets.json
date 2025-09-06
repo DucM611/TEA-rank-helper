@@ -1,4 +1,12 @@
-[
-  {"name": "Tea Faucet Official", "url": "https://faucet.tea.xyz"},
-  {"name": "Testnet Faucet Mirror", "url": "https://testnet-faucet.tea.xyz"}
-]
+{
+  "faucets": [
+    {
+      "name": "Tea Testnet Faucet #1",
+      "url": "https://faucet.tea.xyz"
+    },
+    {
+      "name": "Tea Testnet Faucet #2",
+      "url": "https://faucet-test.tea-protocol.org"
+    }
+  ]
+}
